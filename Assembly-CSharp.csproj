@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraController.cs" />
+     <Compile Include="Assets\Scripts\Dots\DotController.cs" />
+     <Compile Include="Assets\Scripts\Dots\DotStatus.cs" />
      <Compile Include="Assets\Scripts\LevelGeneration\LevelGenerator.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
